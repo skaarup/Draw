@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/node-websocket-client/test
+END
+test-readonly-attrs.js
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/node-websocket-client/test/test-readonly-attrs.js
+END
+test-unix-sockets.js
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/node-websocket-client/test/test-unix-sockets.js
+END
+test-basic.js
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/node-websocket-client/test/test-basic.js
+END
+test-unix-send-fd.js
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/node-websocket-client/test/test-unix-send-fd.js
+END
+test-ready-state.js
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/node-websocket-client/test/test-ready-state.js
+END

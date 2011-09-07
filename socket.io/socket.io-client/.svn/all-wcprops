@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/.gitignore
+END
+socket.io.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/socket.io.js
+END
+.gitmodules
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/.gitmodules
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/README.md
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/Makefile
+END

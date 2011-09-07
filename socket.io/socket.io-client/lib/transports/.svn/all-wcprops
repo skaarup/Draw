@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/transports
+END
+htmlfile.js
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/transports/htmlfile.js
+END
+flashsocket.js
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/transports/flashsocket.js
+END
+websocket.js
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/transports/websocket.js
+END
+jsonp-polling.js
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/transports/jsonp-polling.js
+END
+xhr-multipart.js
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/transports/xhr-multipart.js
+END
+xhr.js
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/transports/xhr.js
+END
+xhr-polling.js
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/transports/xhr-polling.js
+END

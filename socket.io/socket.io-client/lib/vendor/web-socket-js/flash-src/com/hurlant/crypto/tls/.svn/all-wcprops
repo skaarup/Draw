@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls
+END
+SSLSecurityParameters.as
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/SSLSecurityParameters.as
+END
+TLSSocketEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSSocketEvent.as
+END
+TLSSecurityParameters.as
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSSecurityParameters.as
+END
+KeyExchanges.as
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/KeyExchanges.as
+END
+SSLConnectionState.as
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/SSLConnectionState.as
+END
+TLSConnectionState.as
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSConnectionState.as
+END
+MACs.as
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/MACs.as
+END
+TLSEngine.as
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSEngine.as
+END
+TLSConfig.as
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSConfig.as
+END
+TLSTest.as
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSTest.as
+END
+SSLEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/SSLEvent.as
+END
+TLSEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSEvent.as
+END
+ISecurityParameters.as
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/ISecurityParameters.as
+END
+CipherSuites.as
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/CipherSuites.as
+END
+IConnectionState.as
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/IConnectionState.as
+END
+TLSSocket.as
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSSocket.as
+END
+BulkCiphers.as
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/BulkCiphers.as
+END
+TLSError.as
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/svnroot/!svn/ver/73055/MIA/Studiegrupper/frontend/html5%20demo%20application/tools/socket.io/support/socket.io-client/lib/vendor/web-socket-js/flash-src/com/hurlant/crypto/tls/TLSError.as
+END
