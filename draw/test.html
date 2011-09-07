@@ -1,0 +1,41 @@
+<html>
+<head>
+	<title>HTML5 demo app</title>
+	<script type="text/javascript" src="js/messagebroker.js" ></script>
+	<script type="text/javascript">			
+		window.onload = function(){
+			var message = {
+				id: 2,
+				type: "type",
+				data: {
+					bla: "bla"
+				}
+			};
+			
+			window.addEventListener("message", messageHandler, true);
+			function messageHandler(e) {
+				alert(e.data);
+			}
+			
+			var key = "myKey";
+			
+			var messageBroker = new MessageBroker({
+				url: "",
+				window: window,
+				storageKey: key			
+			});		
+			
+			function storageEvent(e){
+				alert("from page: " + e.url);
+			}
+			
+			window.addEventListener("storage", storageEvent, true);
+			
+			/*window.localStorage[key] = message;*/			
+		}
+	</script>
+</head>
+<body>
+	<div></div>
+</body>
+</html>

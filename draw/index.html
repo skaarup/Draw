@@ -1,0 +1,82 @@
+<html>
+<head>
+	<title>Draw together</title>
+	<script type="text/javascript" src="js/model.js"></script>
+	<script type="text/javascript" src="js/messagebroker.js"></script>
+	<script src="/socket.io/socket.io.js"></script>
+	<script type="text/javascript">	
+		window.addEventListener("load", onload, true);
+
+		function onload() {
+
+			var drawingStorageKey = "drawing",
+				clientIdStorageKey = "clientId",
+				clientSessionIdKey = "clientSessionId",
+				serverUrl = "ws://localhost:8080/echo",
+				clientUrl = "http://localhost:8080";//document.domain; 
+				messageTypes = new MessageTypes(),
+				userNameInput = document.getElementById("userName"),
+				connectButton = document.getElementById("connect");
+				
+				//Clear storage upon startup
+				window.localStorage[drawingStorageKey] = "[]";		
+				window.localStorage[clientSessionIdKey] = null;
+
+				//Set the username input to the stored one from last visit
+				 userNameInput.value = window.localStorage[clientIdStorageKey];
+				
+				connectButton.addEventListener("click", function(e){
+					if(userNameInput.value.replace(' ', '') != ""){
+						//Save clientid in localstorage for next visit
+						window.localStorage[clientIdStorageKey] = userNameInput.value;
+						//Save clientid in sessionstorage for use in this session
+						window.sessionStorage[clientIdStorageKey] = userNameInput.value;
+						init();
+					} 					
+				});
+
+				function init(){
+					var container = document.getElementById("drawingContainer");
+					container.style.cssText = "";
+					var messageBroker = new MessageBroker({
+									storage:  window.localStorage,
+									serverUrl: serverUrl,
+									clientUrl: clientUrl,
+									window: window,
+									drawingStorageKey: drawingStorageKey,
+									clientSessionIdKey: clientSessionIdKey,
+									clientId: window.sessionStorage[clientIdStorageKey],
+									messageTypes: messageTypes				
+					}),
+				
+					drawing = new Drawing({
+						messageBroker: messageBroker,
+						storage: window.localStorage,
+						clientUrl: clientUrl,
+						window: window,
+						drawingStorageKey: "drawing",
+						clientId: window.sessionStorage[clientIdStorageKey]
+					});
+					
+					
+				}
+				
+		}
+		
+	</script>
+</head>
+<body>
+	<h1>Draw together</h1>
+	<div>
+		<label for="userName">Username</label>
+		<input type="text" id="userName" />
+		<input type="button" id="connect" value="Connect" />
+	</div>
+	<div id="drawingContainer" style="visibility:hidden;">
+		<div>
+			<input type="button" id="reset" value="Reset drawing" />
+		</div>
+		<canvas height="500" width="500" id="canvas" style="border:1px solid"></canvas>
+	</div>
+</body>
+</html>
